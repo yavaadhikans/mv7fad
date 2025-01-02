@@ -1,1 +1,1 @@
-now I'm starting episode 3 of Dear Edward
+now I'm starting episode 3 of Dear Edward, now I've finished it
