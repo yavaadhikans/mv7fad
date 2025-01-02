@@ -1,12 +1,9 @@
-Position	Const	Created	Modified	Description	Name
-
-[6](https://en.wikipedia.org/wiki/Main_Page)	nm0000109	2022-10-30	2022-11-04	76244t93566o	Yasmine Bleeth
-
-9	nm0000119	2022-10-30	2022-11-04	13445	Tia Carrere
-
-31	nm0000415	2022-10-30	2022-10-30		Jami Gertz
-
-32	nm1985859	2022-10-30	2022-10-30		Mia Wasikowska
+|Position	|Const	|Created	|Modified	|Description	|Name|
+|---|---|---|---|---|---|
+|6	|nm0000109	|2022-10-30	|2022-11-04	|76244t93566o	|Yasmine Bleeth|
+|9	|nm0000119	|2022-10-30	|2022-11-04	|13445	|Tia Carrere|
+|31	|nm0000415	|2022-10-30	|2022-10-30	|	|Jami Gertz|
+|32	|nm1985859	|2022-10-30	|2022-10-30	|	|Mia Wasikowska|
 
 61	nm0069079	2022-10-30	2022-10-30		Troian Bellisario
 62	nm3565962	2022-10-30	2022-10-30		Jessica Raine
