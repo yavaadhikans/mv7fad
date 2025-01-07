@@ -1,1 +1,1 @@
-I'm going to experiment with this as a place from which to organize my online activities. I like Git's usefulness both spacially and temporally: I like to be able to shift even bloggishness around from folder to folder, and I like the timestamping of my activities. For now, I think I might go watch TV or a movie, maybe get something to eat. I imagine I'll be back later.
+I'm now going to experiment with branches.
